@@ -11,13 +11,13 @@ This project aims to create a Rust based distributed [Blockchain Oracle](https:/
 Clone the project
 
 ```bash
-  git clone https://github.com/aritroCoder/Distributed-client-signatures
+  git clone https://github.com/aritroCoder/RsOracle
 ```
 
 Go to the project directory
 
 ```bash
-  cd Distributed-client-signatures
+  cd RsOracle
 ```
 
 Run with a single command (make sure Rust is installed and device port 8000, 8080 is free)
